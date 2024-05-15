@@ -1,2 +1,0 @@
-tkinter
-sqlite3
