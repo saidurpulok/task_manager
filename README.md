@@ -16,7 +16,7 @@ This is as easy as it can get!
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/saidurpulok/task_manager.git
    ```
 
 2. **Install Dependencies:**
