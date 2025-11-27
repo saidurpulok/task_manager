@@ -1,0 +1,9 @@
+# Python dependencies for Task Manager Pro
+# Note: tkinter comes with Python but may need system-level installation
+# On Ubuntu/Debian: sudo apt-get install python3-tk
+# On Fedora: sudo dnf install python3-tkinter
+# On macOS: tkinter is included with Python
+# On Windows: tkinter is included with Python
+
+# Optional dependencies (the app works without these)
+# python-dateutil>=2.8.2
