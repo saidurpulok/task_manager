@@ -272,20 +272,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Enhanced from a beginner-level project to showcase professional development practices
 - Thanks to the Python and Tkinter communities for excellent documentation
 
-## 📸 Screenshots
-
-### Main Window
-The main interface shows tasks organized in tabs with color-coded priorities.
-
-### Task Dialog
-Add or edit tasks with all attributes including priority, category, and due date.
-
-### Category Management
-Create and manage custom categories for better task organization.
-
-### Statistics View
-View comprehensive statistics about your tasks and productivity.
-
 ---
 
 **Note**: This is an educational project designed to demonstrate intermediate-level Python programming concepts. Feel free to use it as a learning resource or starting point for your own projects!
